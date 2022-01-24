@@ -205,10 +205,6 @@ file = "config/quantumfusion/dashloader/mods-10ebb/resourcepacks-1593/registry-m
 hash = "53b664be538bdcf3175cf9276be8078730919ca222a01b83c9616631197a0b69"
 
 [[files]]
-file = "config/replaymod.json"
-hash = "3910502e472ba2db65bb744b8925cef086fc8ac7dd900fe6ccb007576e862306"
-
-[[files]]
 file = "config/rrp.properties"
 hash = "564685080cb00dd5460e21d3dc511372258acb033c47cf0c41e1c6f499216022"
 
@@ -534,11 +530,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "1c6b6d6958e1fd8d9566e384d1fed58958fdc0a5d8c557e52793f75887148d99"
-metafile = true
-
-[[files]]
-file = "mods/replaymod.toml"
-hash = "85a07a0fc505a0e39c77a549a8392ad9951902d0870df98632a2ecb3f181b4ff"
 metafile = true
 
 [[files]]
