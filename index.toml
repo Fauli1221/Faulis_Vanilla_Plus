@@ -537,11 +537,6 @@ hash = "1c6b6d6958e1fd8d9566e384d1fed58958fdc0a5d8c557e52793f75887148d99"
 metafile = true
 
 [[files]]
-file = "mods/replaymod.toml"
-hash = "85a07a0fc505a0e39c77a549a8392ad9951902d0870df98632a2ecb3f181b4ff"
-metafile = true
-
-[[files]]
 file = "mods/shulkerboxtooltip.toml"
 hash = "c5132de20a942b83896fef588478ed1605e6dd3738c09d476e3166abf16cbd43"
 metafile = true
