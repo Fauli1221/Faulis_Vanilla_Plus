@@ -1,0 +1,17 @@
+name = "Faulis Vanilla +"
+author = "Fauli1221"
+version = "0.0.1"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c50492daaf211b249a392ef33c17f31eeb1304c06dfdcdf1d4af9bd31a7f6a7d"
+
+[versions]
+fabric = "0.12.12"
+minecraft = "1.18.1"
+
+[options]
+acceptable-game-versions = "1.18"
+no-internal-hashes = false

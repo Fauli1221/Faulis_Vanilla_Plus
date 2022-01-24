@@ -1,0 +1,13 @@
+name = "Drip Sounds (Fabric)"
+filename = "DripSounds-1.18-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3543/360/DripSounds-1.18-0.3.0.jar"
+hash-format = "murmur2"
+hash = "2680250934"
+
+[update]
+[update.curseforge]
+file-id = 3543360
+project-id = 448311
