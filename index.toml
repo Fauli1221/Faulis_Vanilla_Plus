@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "77130a936de7b69c633f842b088137b7516dbd1ff492ec88439ae7483207ec8c"
+hash = "ed5c8ff0e5b160453b140bd167b1f4cdddbeb80cab6ce6f131cc5ddfe77d1647"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "492ccef1b220ed135344c864959b560fcedb53a40d2c828af92c2ad59d873512"
+hash = "d609573e65a0c0417060648951d396133b295f172fa8f21ce6566d66d27e8320"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.toml"
-hash = "4a7581b733f58a5188e2dbd0bd6098150c9639cde672a9ed2febcc9087895259"
+hash = "3f2fe30129b5380d43b9faeddab3a8f8cc0c289144a2457731d948fb8690908f"
 metafile = true
 
 [[files]]
