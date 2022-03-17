@@ -298,11 +298,6 @@ hash = "c375509df57d1f34316b22e90ea0d233dc744d4e453b938d592d835e1463d8e4"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.toml"
-hash = "1c65c607e5e4c32bb35b4cedc97de1268a7008ae5696fb427a7e3e29280e06f4"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.toml"
 hash = "1d29bfe2983980e17e0d366c47faedbd89d695a3eff08541a779d99d5998ebbc"
 metafile = true
@@ -368,11 +363,6 @@ hash = "068df9771974522251fe74689af8992036ef110fedd65323db908a9df12f15ec"
 metafile = true
 
 [[files]]
-file = "mods/ebe.toml"
-hash = "c58834af10ab46edeb4946b55f4d71cf9bced4d37aef0ee122a5a7e4e9e17153"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.toml"
 hash = "40860c6ac8115a772af0e960f646fe166bcc772f0116be9c298ade157580f0ab"
 metafile = true
@@ -413,11 +403,6 @@ hash = "4a156ec3ca7850e708b8db3cb0d522788537b6de968e579a0d229e2e618383ea"
 metafile = true
 
 [[files]]
-file = "mods/illuminations.toml"
-hash = "71df632403df1a9c6ab42c6866fa4ca0e4e1bc03158f26cc9d4f4b44433558af"
-metafile = true
-
-[[files]]
 file = "mods/indium.toml"
 hash = "df864fbe0b2602c2a0455b789e5e22f65ce1770994dbf3c6fe22a6b4ba9147b7"
 metafile = true
@@ -450,11 +435,6 @@ metafile = true
 [[files]]
 file = "mods/lambdabettergrass.toml"
 hash = "01f79a7fb966690009a42f285e779bac8f7958df56240494e4d3d7d862332c2d"
-metafile = true
-
-[[files]]
-file = "mods/lambdacontrols.toml"
-hash = "f06ebf9bb364a810cd7c7ac49b59b89b023bf0db97a2e115ec68462a87af89d8"
 metafile = true
 
 [[files]]
